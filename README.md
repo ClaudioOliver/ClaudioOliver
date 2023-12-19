@@ -1,6 +1,5 @@
 # Olá, eu sou o Claudio de Oliveira! 👋
 
-
 ## 👨‍💻 Sobre mim
 Eu sou uma pessoa Desenvolvedor .NET
 
@@ -25,7 +24,6 @@ Bacharelado em Sistemas da Informação (Concluído 2015) - Faculdade FEUC
 - Pensamento criativo
 - Resolução de problemas
 
-
 ## 💻 Stack utilizada 📚
 
 **Back-end:** 
@@ -35,7 +33,6 @@ Bacharelado em Sistemas da Informação (Concluído 2015) - Faculdade FEUC
 - Entity Framework Core
 - Asp.Net core(Web API)
 
-
 **Front-end:** 
 - HTML5
 - CSS3
@@ -44,7 +41,6 @@ Bacharelado em Sistemas da Informação (Concluído 2015) - Faculdade FEUC
 
 ## 📚 Idiomas
 - Inglês-Técnico
-
 
 ## 🔗👨 Social 🔝
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ClaudioOliver/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
