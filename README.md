@@ -16,7 +16,6 @@ Bacharelado em Sistemas da Informação (Concluído 2015) - Faculdade FEUC
 - Modelagem de Dados - Balta.io 
 - Programação Orientada a Objetos em C# - Udemy
 - Conhecimento em analise comercial, financeira e gestão contábil
-- Conhecimentos em .Net Core 
 - Conhecimentos em SQLServer e PostgreSQL
 - Versionamento de Código com Git e GitHub
 
@@ -29,17 +28,17 @@ Bacharelado em Sistemas da Informação (Concluído 2015) - Faculdade FEUC
 ## 💻 Stack utilizada 📚
 
 **Back-end:** 
-- Lógica de programação e orientação a objeto.
-- Linguagem Programação com C#
-- Asp.Net core (MVC)
-- Entity Framework Core
-- Asp.Net core(Web API)
+
+[<img src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png" height="50"></a>](https://web.dio.me/track/formacao-logica-de-programacao)
+[<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="50"></a>](https://web.dio.me/track/formacao-dotnet-developer)
+[<img src="https://logodix.com/logo/912324.png" height="50"></a>](https://web.dio.me/track/formacao-dotnet-developer)
 
 **Front-end:** 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
+
+[<img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" height="50"></a>](https://web.dio.me/track/formacao-html-web-developer)
+[<img src="https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer)
+[<img src="https://logodix.com/logo/2062376.png" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer)
+[<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" height="50"></a>](https://web.dio.me/track/formacao-javascript-developer)
 
 ## 📚 Idiomas
 - Inglês-Técnico
