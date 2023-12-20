@@ -14,7 +14,6 @@ Bacharelado em Sistemas da Informação (Concluído 2015) - Faculdade FEUC
 - Formação .NET Developer - DIO.me
 - BootCamp - Programação C# com CRM Dynamics - DIO.me
 - Fundamentos em C# - Balta.io
-- Modelagem de Dados - Balta.io 
 - Programação Orientada a Objetos em C# - Udemy
 - Conhecimento em analise comercial, financeira e gestão contábil
 - Conhecimentos em SQLServer e PostgreSQL
