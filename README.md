@@ -1,7 +1,9 @@
 # Olá, eu sou o Claudio de Oliveira! 👋
 
 ## 👨‍💻 Sobre mim
-Eu sou uma pessoa Desenvolvedor .NET
+Analista de suporte há 10 anos e amplo conhecimento em banco de dados (SQLServer e PostgreSQL), responsável em realizar e implantação de software a empresas e realização de treinamentos, responsável e analise e manutenção de Bugs no Software ERP da empresa e abertura de demanda de melhorias para o Software ERP da empresa.
+
+Atualmente estou me qualificando e migrando para área de Desenvolvimento de Software com foco inicial na linguagem C# no ambiente. NET.
 
 ## 📚 Formação Acadêmica
 
