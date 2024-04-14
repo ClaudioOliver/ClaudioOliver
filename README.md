@@ -6,7 +6,9 @@ Analista de suporte há 10 anos e amplo conhecimento em banco de dados (SQLServe
 Atualmente estou me qualificando e migrando para área de Desenvolvimento de Software com foco inicial na linguagem C# no ambiente. NET.
 
 ## 📚 Formação Acadêmica
+
 Pós - Graduação de Engenharia de Software - (Cursando) - Faculdade UNÍAMERICA
+
 Bacharelado em Sistemas da Informação (Concluído 2015) - Faculdade FEUC
 
 ## 🎯 Certificações/Qualificações
