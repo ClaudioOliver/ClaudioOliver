@@ -1,9 +1,9 @@
 # Olá, eu sou o Claudio de Oliveira! 👋
 
 ## 👨‍💻 Sobre mim
-Analista de suporte há 10 anos e amplo conhecimento em banco de dados (SQLServer e PostgreSQL), responsável em realizar e implantação de software a empresas e realização de treinamentos, responsável e analise e manutenção de Bugs no Software ERP da empresa e abertura de demanda de melhorias para o Software ERP da empresa.
+Analista de suporte com 10 anos de experiência e amplo conhecimento em banco de dados (SQL Server e PostgreSQL). Responsável pela realização e implantação de software, bem como treinamentos. Encarregado da análise e manutenção de bugs, além da abertura de demandas para a melhoria da qualidade do software.
 
-Atualmente estou me qualificando e migrando para área de Desenvolvimento de Software com foco inicial na linguagem C# no ambiente. NET.
+Atualmente migrando para área de Desenvolvimento de Software com foco inicial na linguagem C# no ambiente. NET.
 
 ## 📚 Formação Acadêmica
 
