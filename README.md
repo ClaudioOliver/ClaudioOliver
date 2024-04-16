@@ -37,7 +37,9 @@ Bacharelado em Sistemas da Informação (Concluído 2015) - Faculdade FEUC
 
 [<img src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png" height="50"></a>](https://web.dio.me/track/formacao-logica-de-programacao)
 [<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="50"></a>](https://web.dio.me/track/formacao-dotnet-developer)
-[<img src="https://logodix.com/logo/912324.png" height="50"></a>](https://web.dio.me/track/formacao-dotnet-developer)
+[<img src="https://logodix.com/logo/1797002.png" height="50"></a>](https://web.dio.me/track/formacao-dotnet-developer)
+[<img src="https://logodix.com/logo/1796956.png" height="50"></a>]()
+[<img src="https://logodix.com/logo/282992.png" height="50"></a>]()
 
 **Front-end:** 
 
