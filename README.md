@@ -3,7 +3,7 @@
 ## 👨‍💻 Sobre mim
 Analista de suporte com 10 anos de experiência e amplo conhecimento em banco de dados (SQL Server e PostgreSQL). Responsável pela realização e implantação de software, bem como treinamentos. Encarregado da análise e manutenção de bugs, além da abertura de demandas para a melhoria da qualidade do software.
 
-Atualmente migrando para área de Desenvolvimento de Software com foco inicial na linguagem C# no ambiente. NET.
+Minha transição para o desenvolvimento software é uma evolução natural de minha paixão pela tecnologia e pela busca incessante de aprimorar minhas habilidades. Ao longo dos anos, fui atraído pela empolgante interseção entre desenvolvimento de software e solução de problemas técnicos, e estou entusiasmado em aplicar meu conhecimento prévio para explorar novos horizontes neste campo emocionante.
 
 ## 📚 Formação Acadêmica
 
