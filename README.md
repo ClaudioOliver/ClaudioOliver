@@ -1,7 +1,7 @@
 # Olá, eu sou o Claudio de Oliveira! 👋
 
 ## 👨‍💻 Sobre mim
-Analista de suporte com 10 anos de experiência e amplo conhecimento em banco de dados (SQL Server e PostgreSQL).
+Analista de Sistemas e Suporte Sênior com 10 anos de experiência e amplo conhecimento em banco de dados (SQL Server e PostgreSQL).
 
 Minha transição para o desenvolvimento software é uma evolução natural de minha paixão pela tecnologia e pela busca incessante de aprimorar minhas habilidades. Ao longo dos anos, fui atraído pela empolgante interseção entre desenvolvimento de software e solução de problemas técnicos, e estou entusiasmado em aplicar meu conhecimento para explorar novos horizontes neste campo emocionante.
 
