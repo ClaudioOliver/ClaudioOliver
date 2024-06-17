@@ -40,6 +40,7 @@ Bacharelado em Sistemas da Informação (Concluído 2015) - Faculdade FEUC
 [<img src="https://github.com/ClaudioOliver/ClaudioOliver/assets/115963003/18e4b5bf-36be-47bb-8f40-94147f455005" height="50"></a>](https://web.dio.me/track/formacao-dotnet-developer)
 [<img src="https://logodix.com/logo/1796956.png" height="50"></a>](Aspnet)
 [<img src="https://logodix.com/logo/282992.png" height="50"></a>](java)
+[<img src="https://logodix.com/logo/1614477.png" height="50"></a>](SpringBoot)
 
 **Front-end:** 
 
