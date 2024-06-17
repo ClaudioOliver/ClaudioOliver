@@ -48,6 +48,7 @@ Bacharelado em Sistemas da Informação (Concluído 2015) - Faculdade FEUC
 [<img src="https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer)
 [<img src="https://logodix.com/logo/2062376.png" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer)
 [<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" height="50"></a>](https://web.dio.me/track/formacao-javascript-developer)
+[<img src="https://logodix.com/logo/1305085.png" height="50"></a>](Angular)
 
 ## 📚 Idiomas
 - Inglês-Técnico
