@@ -1,58 +1,82 @@
-# Olá, eu sou Claudio de Oliveira! 👋
+<h2 align="left">👨‍💻 About Me 👋</h2>
 
-## 👨‍💻 Sobre mim
-Analista de Suporte em Sistemas Sênior com 10 anos de experiência e amplo conhecimento em banco de dados (SQL Server e PostgreSQL).
+###
 
-Minha transição para o desenvolvimento software é uma evolução natural de minha paixão pela tecnologia e pela busca incessante de aprimorar minhas habilidades. Ao longo dos anos, fui atraído pela empolgante interseção entre desenvolvimento de software e solução de problemas técnicos, e estou entusiasmado em aplicar meu conhecimento para explorar novos horizontes neste campo emocionante.
+<p align="left">- Backend Developer<br>- Pós-Graduação em Engenharia de Software<br>- Analista de Sistemas e Suporte at @VVS Sistemas</p>
 
-## 📚 Formação Acadêmica
+###
 
-Pós - Graduação de Engenharia de Software - (Cursando) - Faculdade UNÍAMERICA
+<h2 align="left">💻 Stack's utilizadas 📚</h2>
 
-Bacharelado em Sistemas da Informação (Concluído 2015) - Faculdade FEUC
+###
 
-## 🎯 Certificações/Qualificações
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+</div>
 
-[<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"></a>](https://web.dio.me/track/formacao-dotnet-developer)
-[<img src="https://hermes.dio.me/tracks/b6c00053-caf8-4dd8-9c92-96b1e077c426.png" height="50"></a>](https://web.dio.me/track/coding-future-avanade-programacao-c-com-crm-dynamics)
-[<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="50"></a>](https://web.dio.me/track/decola-tech-avanade-net-developer)
-- Formação .NET Developer - DIO.me
-- BootCamp - Decola Tech 2024 - DIO.me
-- BootCamp - Programação C# com CRM Dynamics - DIO.me
-- Fundamentos em C# - Balta.io
-- Programação Orientada a Objetos em C# - Udemy
-- Conhecimento em analise comercial, financeira e gestão contábil
-- Conhecimentos em SQLServer e PostgreSQL
-- Versionamento de Código com Git e GitHub
+###
 
-## 🛠 Habilidades
-- Trabalho em equipe
-- Liderança
-- Pensamento criativo
-- Resolução de problemas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+</div>
 
-## 💻 Stack utilizada 📚
+###
 
-**Back-end:** 
+<h2 align="left">Status</h2>
 
-[<img src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png" height="50"></a>](https://web.dio.me/track/formacao-logica-de-programacao)
-[<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="50"></a>](https://web.dio.me/track/formacao-dotnet-developer)
-[<img src="https://github.com/ClaudioOliver/ClaudioOliver/assets/115963003/18e4b5bf-36be-47bb-8f40-94147f455005" height="50"></a>](https://web.dio.me/track/formacao-dotnet-developer)
-[<img src="https://logodix.com/logo/1796956.png" height="50"></a>](Aspnet)
-[<img src="https://logodix.com/logo/282992.png" height="50"></a>](java)
-[<img src="https://logodix.com/logo/1614477.png" height="50"></a>](SpringBoot)
+###
 
-**Front-end:** 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClaudioOliver&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ClaudioOliver&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-[<img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" height="50"></a>](https://web.dio.me/track/formacao-html-web-developer)
-[<img src="https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer)
-[<img src="https://logodix.com/logo/2062376.png" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer)
-[<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" height="50"></a>](https://web.dio.me/track/formacao-javascript-developer)
-[<img src="https://logodix.com/logo/1305085.png" height="50"></a>](Angular)
+###
 
-## 📚 Idiomas
-- Inglês-Técnico
+<h2 align="left">🔗👨 Social 🔝</h2>
 
-## 🔗👨 Social 🔝
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ClaudioOliver) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/claudio-oliveira127" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">📚 Idiomas</h2>
+
+###
+
+<p align="left">- Inglês</p>
+
+###
