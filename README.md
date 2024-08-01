@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Backend Developer<br>- Pós-Graduação em Engenharia de Software<br>- Analista de Sistemas e Suporte at @VVS Sistemas</p>
+<p align="left">- Backend Developer<br>- Pós-Graduação em Engenharia de Software<br>- Graduado em Bacharelado em Sistemas da Informação<br>- Analista de Sistemas e Suporte at @VVS Sistemas</p>
 
 ###
 
