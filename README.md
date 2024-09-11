@@ -1,12 +1,12 @@
-<h2 align="left">👨‍💻 About Me 👋</h2>
+<h2 align="left">👨‍💻 Sobre 👋</h2>
 
 ###
 
-<p align="left">- Backend Developer<br>- Pós-Graduação em Engenharia de Software<br>- Graduado em Bacharelado em Sistemas da Informação<br>- Analista de Sistemas e Suporte at @VVS Sistemas</p>
+<p align="left">- Software Developer<br>- Pós-Graduação em Engenharia de Software<br>- Bacharel em Sistemas da Informação<br>- Analista de Sistemas e Suporte at @VVS Sistemas</p>
 
 ###
 
-<h2 align="left">💻 Stack's utilizadas 📚</h2>
+<h2 align="left">💻 Tecnologias 📚</h2>
 
 ###
 
@@ -50,13 +50,14 @@
 
 ###
 
-<h2 align="left">Status</h2>
+<h2 align="left">🎯 Status</h2>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClaudioOliver&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ClaudioOliver&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ClaudioOliver&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ClaudioOliver&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ClaudioOliver&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
