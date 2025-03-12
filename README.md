@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">- Software Developer<br>- Postgraduate in Software Engineering<br>- Bachelor in Information Systems<br>- Systems and Support Analyst at @VVS Sistemas</h6>
+<h3 align="left">- Software Developer<br>- Postgraduate in Software Engineering<br>- Bachelor in Information Systems<br>- Systems and Support Analyst at @VVS Sistemas</h3>
 
 ###
 
