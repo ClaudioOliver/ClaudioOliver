@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">- Software Developer<br>- Postgraduate in Software Engineering<br>- Bachelor in Information Systems<br>- Systems and Support Analyst at @VVS Sistemas</h3>
+<h3 align="left">- Desenvolvedor .Net<br>- Pos-graduação em Engenharia de Software<br>- Bacharel em Sistemas de Informação<br>- Analista de Sistemas e Suporte na VVS Sistemas</h3>
 
 ###
 
